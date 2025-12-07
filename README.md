@@ -170,3 +170,5 @@ Vigil stands watch.
 
 When your AI tools slip — we catch it first.
 Stay Spectral. 👁‍🗨
+
+Notice for Users: If you cloned this and found it useful, please consider starring the repo! Stars help with visibility and let me know which projects to maintain.
